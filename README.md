@@ -1,9 +1,7 @@
 # 2016 US Bike Share Data Analysis
 
-Team Members: Raunak Tripathi      Utkarsh Chaudhry
-              B.Tech, Galgotias    B.Tech, Galgotias 
-                  University          University
-                
+Raunak Tripathi | B.Tech CSE, Galgotias University       
+                  
 
 ## Table of Contents
 - [Introduction](#intro)
